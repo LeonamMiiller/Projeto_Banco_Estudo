@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/22 21:17:58.000.914,=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 21:18:23.000.238,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Banco.pas</Transaction>
+    <Transaction>2022/06/22 21:18:23.000.238,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Banco.dfm</Transaction>
+    <Transaction>2022/06/22 21:18:50.000.087,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Banco.dfm=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Init.dfm</Transaction>
+    <Transaction>2022/06/22 21:18:50.000.087,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Banco.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Init.pas</Transaction>
+    <Transaction>2022/06/22 21:19:05.000.147,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Banco.dproj</Transaction>
+    <Transaction>2022/06/22 21:19:39.000.854,=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 21:20:36.000.109,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Infra\DatabaseConnection.pas</Transaction>
+    <Transaction>2022/06/22 21:32:31.000.821,=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 21:32:52.000.205,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Gateway\Intf.Connection.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 21:44:22.000.834,=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 21:44:50.000.163,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Entity\Entity.Pessoa.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 21:52:05.000.681,=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 21:52:19.000.335,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Entity\Entity.Conta.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/23 10:17:14.000.979,=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/23 10:22:48.000.038,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Gateway\Gateway.ContaBancaria.pas</Transaction>
+    <Transaction>2022/06/23 10:23:15.000.270,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Entity\Entity.Conta.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Entity\Entity.ContaBancaria.pas</Transaction>
+    <Transaction>2022/06/23 12:56:15.000.116,=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/23 12:57:42.000.184,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\UseCase\UseCase.MovimentarPessoa.pas</Transaction>
+    <Transaction>2022/06/23 13:22:17.000.870,=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas</Transaction>
+    <Transaction>2022/06/23 13:22:41.000.914,C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Unit1.pas=C:\Users\Leonam\Documents\Embarcadero\Studio\Projects\Banco\Gateway\Gateway.MovimentarPessoa.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Entity"/>
+    <File Path="Entity\Defs.Types.pas"/>
+    <File Path="Entity\Entity.ContaBancaria.pas"/>
+    <File Path="Entity\Entity.Deposito.pas"/>
+    <File Path="Entity\Entity.Pessoa.pas"/>
+    <File Path="Entity\Entity.Saque.pas"/>
+    <File Path="Gateway"/>
+    <File Path="Gateway\Gateway.ContaBancaria.pas"/>
+    <File Path="Gateway\Gateway.Deposito.pas"/>
+    <File Path="Gateway\Gateway.Persistence.pas"/>
+    <File Path="Gateway\Gateway.Saque.pas"/>
+    <File Path="Gateway\Intf.Connection.pas"/>
+    <File Path="Gateway\Gateway.MovimentarPessoa.pas"/>
+    <File Path="Infra"/>
+    <File Path="Infra\DatabaseConnection.pas"/>
+    <File Path="UseCase"/>
+    <File Path="UseCase\Intf.Persistence.pas"/>
+    <File Path="UseCase\UseCase.RealizarDeposito.pas"/>
+    <File Path="UseCase\UseCase.SacarDinheiro.pas"/>
+    <File Path="UseCase\UseCase.MovimentarPessoa.pas"/>
+    <File Path="Init.pas"/>
+    <File Path="Init.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
